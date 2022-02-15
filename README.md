@@ -50,8 +50,8 @@ Frontiers in Psychiatry, 1428. doi.org/10.3389/fpsyt.2021.683280
 
  
 ### Authors
-**Tomoki Tokuda** <t-tokuda@atr.jp> (1)
-**Okito Yamashita** <oyamashi@atr.jp> (1, 2)
+**Tomoki Tokuda** <t-tokuda@atr.jp> (1),
+**Okito Yamashita** <oyamashi@atr.jp> (1, 2),
 **Junichiro Yoshimoto** <jun-y@atr.jp> (1, 3)  
 1. Advanced Telecommunications Research Institute International, Japan  
 2. Center for Advanced Intelligence Project (AIP), RIKEN, Japan
