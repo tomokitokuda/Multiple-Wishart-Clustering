@@ -60,4 +60,4 @@ Frontiers in Psychiatry, 1428. doi.org/10.3389/fpsyt.2021.683280
 ### Acknowledgments
 This research was (partially) conducted as a contract project
 supported by Japan Agency for Medical Research and Development (AMED) under Grant Number JP20dm0307002 (TT),
-JP20dm0307008 (JY, TT), JP20dm0307009 (OY), JP20dm0107096 (JY)
+JP20dm0307008 (JY, TT), JP20dm0307009 (OY), JP20dm0107096 (JY).
